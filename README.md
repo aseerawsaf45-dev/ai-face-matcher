@@ -57,9 +57,7 @@ python build_exe.py
 ```
 The output will be in the `dist/` directory.
 
-## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 Built by [aseerawsaf45-dev](https://github.com/aseerawsaf45-dev)
